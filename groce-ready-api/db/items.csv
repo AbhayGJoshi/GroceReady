@@ -1,0 +1,9 @@
+itemId,category,subtype,name,unit,imageUrl
+1,Food Grains    ,Rice,Basmati Rice,Kg,
+2,Oils           ,Hair Oil,Dabur Amala,packs,
+3,Spices         ,,Clove,gm,
+4,Packaged Food  ,Chips,Lays Chips,packs,
+5,Beverages      ,Tea,Society Tea,Kg,
+6,Dairy          ,Paneer,Amul Paneer,gm,
+7,Personal Care  ,ToothPaste,Colgate,gm,
+8,Home Care      ,Detergent,Wheel Washing Powder,Kg,
