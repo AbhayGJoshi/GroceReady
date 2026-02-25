@@ -1,0 +1,16 @@
+1. cd D:/groce-ready-api
+→ Move to project directory.
+2. git init
+→ Initialize Git repository (creates .git folder).
+3. git remote add origin https://github.com/AbhayGJoshi/GroceReady.git
+ OR if it's already pointing to some other directory in git
+ git remote set-url origin https://github.com/AbhayGJoshi/GroceReady.git
+→ Connect local repo to GitHub repository.
+4. git add .
+→ Stage all files.
+5. git commit -m "Initial commit"
+→ Save snapshot of project.
+6. git branch -M main
+→ Ensure branch name is main.
+7. git push -u origin main
+→ Upload code to GitHub and set upstream branch
